@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+## Deviatkin Aleksei
 
-You can use the [editor on GitHub](https://github.com/devalv/en/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Backend Developer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
++7-911-939-5179
 
-### Markdown
+devyatkin.av@ya.ru
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[github](https://github.com/devalv)
 
-```markdown
-Syntax highlighted code block
+### Summary
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+Responsible and enthusiastic developer.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Skills
 
-### Jekyll Themes
+- **Python**
+- REST API
+- GraphQL
+- PostgreSQL
+- Linux
+- _Teamlead_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devalv/en/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Experience
 
-### Support or Contact
+```
+2019 - Present  Software engineer, Mashtab research institute, Saint Petersburg, mashtab.org
+                - Python backend developer
+                - Teamlead
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2018 - 2019     Python developer, Stoing, Saint Petersburg, 100ing.ru
+                - Python backend developer
+                - DevOps
+
+2018 - 2018     Head of Department, "CIT MO", Murmansk, cit.gov-murman.ru
+                - Development management
+                - Python backend developer
+                - DevOps
+
+2017 - 2018     Deputy head of Department, "CIT MO", Murmansk, cit.gov-murman.ru
+                - Teamlead
+                - Python backend developer
+                - DevOps
+
+2017 - 2017     Lead engineer, "CIT MO", Murmansk, cit.gov-murman.ru
+                - Python backend developer
+                - DevOps
+
+2012 - 2017     Lead software engineer, Rostelecom, Murmansk, rt.ru
+                - Development and implementation of IS to automate business processes
+                - 3rd level of tech support
+                - Corporate information systems administration
+                - Formation of specific reporting from corporate information systems
+
+2010 - 2012     Software engineer, Rostelecom, Murmansk, rt.ru
+                - 3rd level of tech support
+                - Corporate information systems administration
+                - Formation of specific reporting from corporate information systems
+
+2009 - 2010     Tech support specialist, Rostelecom, Murmansk, rt.ru
+                - 2nd level of tech support
+                - Service availability monitoring
+```
+
+### Education
+
+```
+2010    Сomputer science and Technology
+        Diploma with Honours   
+        Modern University for the Humanities
+        Bachelor of Computer Science and Computer Engineering
+
+2006    Automated information processing and control systems
+        Diploma with Honours    
+        Mesiatsev Murmansk Marine Fishing College
+```
+
+```
+2018    M101P: MongoDB for Developers
+2017    Programming and development of web applications
+2017    PostgreSQL Administration
+2017    Linux (CentOS/Debian). Level 2.
+2016    Python Programming
+2016    Основы постановки задач на разработку программ
+2016    Python: basics
+2016    Web technologies
+2016    Diving into the DBMS
+2015    LFS101x2 Introduction to Linux
+```
