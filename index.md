@@ -2,8 +2,6 @@
 
 Backend Developer
 
-+7-911-939-5179
-
 devyatkin.av@ya.ru
 
 [github](https://github.com/devalv)
@@ -59,9 +57,6 @@ Responsible and enthusiastic developer.
                 - Corporate information systems administration
                 - Formation of specific reporting from corporate information systems
 
-2009 - 2010     Tech support specialist, Rostelecom, Murmansk, rt.ru
-                - 2nd level of tech support
-                - Service availability monitoring
 ```
 
 ### Education
