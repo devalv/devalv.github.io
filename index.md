@@ -1,3 +1,7 @@
+<head>
+  <meta name="yandex-verification" content="70d00681510af255" />
+</head>
+
 ## Deviatkin Aleksei
 
 Backend Developer
