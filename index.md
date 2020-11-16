@@ -9,7 +9,7 @@ job@devyatkin.dev
 ### Summary
 
 ```
-Responsible and enthusiastic developer.
+Responsible and enthusiastic developer, taking care of the product and the skill level.
 ```
 
 ### Skills
@@ -25,25 +25,25 @@ Responsible and enthusiastic developer.
 
 ```
 2019 - Present  Software engineer, Mashtab research institute, Saint Petersburg, mashtab.org
-                - Python backend developer
+                - Python developer
                 - Teamlead
 
 2018 - 2019     Python developer, Stoing, Saint Petersburg, 100ing.ru
-                - Python backend developer
+                - Python developer
                 - DevOps
 
 2018 - 2018     Head of Department, "CIT MO", Murmansk, cit.gov-murman.ru
                 - Development management
-                - Python backend developer
+                - Python developer
                 - DevOps
 
 2017 - 2018     Deputy head of Department, "CIT MO", Murmansk, cit.gov-murman.ru
                 - Teamlead
-                - Python backend developer
+                - Python developer
                 - DevOps
 
 2017 - 2017     Lead engineer, "CIT MO", Murmansk, cit.gov-murman.ru
-                - Python backend developer
+                - Python developer
                 - DevOps
 
 2012 - 2017     Lead software engineer, Rostelecom, Murmansk, rt.ru
