@@ -1,4 +1,4 @@
-## Deviatkin Aleksei
+## Devyatkin Aleksei
 
 Backend Developer
 
