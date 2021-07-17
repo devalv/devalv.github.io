@@ -81,7 +81,6 @@ Responsible and enthusiastic developer, taking care of the product and the skill
 2017    PostgreSQL Administration
 2017    Linux (CentOS/Debian). Level 2.
 2016    Python Programming
-2016    Основы постановки задач на разработку программ
 2016    Python: basics
 2016    Web technologies
 2016    Diving into the DBMS
