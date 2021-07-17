@@ -31,53 +31,34 @@ Responsible and enthusiastic developer, taking care of the product and the skill
                 - Python developer
                 - Teamlead
 
-Stack:
-  * Python (Django 2.*, DRF, Tornado, GraphQL, Alembic, Gino)
-  * SQL (Postgresql)
-  * Linux
-
 2018 - 2019     Python developer, Stoing, Saint Petersburg, 100ing.ru
                 - Python developer
                 - DevOps
-                
-                Stack: Python (Django 1.*, DRF), SQL (Postgresql), Linux
-
 
 2018 - 2018     Head of Department, "CIT MO", Murmansk, cit.gov-murman.ru
                 - Development management
                 - Python developer
                 - DevOps
-                
-                Stack: Python (Django 1.*), SQL (Postgresql), Linux
-
 
 2017 - 2018     Deputy head of Department, "CIT MO", Murmansk, cit.gov-murman.ru
                 - Teamlead
                 - Python developer
                 - DevOps
 
-                Stack: Python (Django 1.*), SQL (Postgresql), Linux
-
 2017 - 2017     Lead engineer, "CIT MO", Murmansk, cit.gov-murman.ru
                 - Python developer
                 - DevOps
-                
-                Stack: Python (Django 1.*), SQL (Postgresql), Linux
 
 2012 - 2017     Lead software engineer, Rostelecom, Murmansk, rt.ru
                 - Development and implementation of IS to automate business processes
                 - 3rd level of tech support
                 - Corporate information systems administration
                 - Formation of specific reporting from corporate information systems
-                
-                Stack: SQL (Oracle, Postgresql), Linux, Python (Django)
 
 2010 - 2012     Software engineer, Rostelecom, Murmansk, rt.ru
                 - 3rd level of tech support
                 - Corporate information systems administration
                 - Formation of specific reporting from corporate information systems
-                
-                Stack: SQL (Oracle, MySQL), Unix
 
 ```
 
