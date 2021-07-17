@@ -24,7 +24,7 @@ Responsible and enthusiastic developer, taking care of the product and the skill
 ### Experience
 
 ```
-2021 - Present  Developer, X5 Retail Group
+2021 - Present  Developer, X5 Retail Group, x5.ru
                 - Python developer
 
 2019 - 2021     Software engineer, Mashtab research institute, Saint Petersburg, mashtab.org
