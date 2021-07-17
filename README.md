@@ -31,7 +31,10 @@ Responsible and enthusiastic developer, taking care of the product and the skill
                 - Python developer
                 - Teamlead
 
-                Stack: Python (Django 2.*, DRF, Tornado, GraphQL, Alembic, Gino), SQL (Postgresql), Linux
+Stack:
+  * Python (Django 2.*, DRF, Tornado, GraphQL, Alembic, Gino)
+  * SQL (Postgresql)
+  * Linux
 
 2018 - 2019     Python developer, Stoing, Saint Petersburg, 100ing.ru
                 - Python developer
